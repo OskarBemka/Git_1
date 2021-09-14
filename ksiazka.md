@@ -1,4 +1,4 @@
 # git jako zdecendralizowany
 
 Student oskar b
-# zmiana do usuniecia
+# jednak jej nie usuwamy
