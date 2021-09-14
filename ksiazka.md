@@ -1,3 +1,3 @@
 # git jako zdecendralizowany
 
-Student oskar
+Student oskar b
